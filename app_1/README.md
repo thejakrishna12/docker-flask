@@ -14,4 +14,4 @@ List Running Docker Containers
 
 sudo docker ps
 
-![Uploading Screenshot from 2025-07-08 12-40-35.png…]()
+![Screenshot from 2025-07-08 12-40-35](https://github.com/user-attachments/assets/9a6787d6-516e-413f-925f-7441f89c34c1)
