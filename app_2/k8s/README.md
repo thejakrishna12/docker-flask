@@ -115,3 +115,36 @@ Use the command:
 
 ![image](https://github.com/user-attachments/assets/5bd442cd-1f03-4bde-984c-c3f8bc850a86)
 
+
+
+
+
+
+
+
+
+1.Create the deploymnt
+-----------------------------------
+nginx-deployment.yaml
+
+    
+kubectl apply -f nginx-deployment.yaml
+
+
+![image](https://github.com/user-attachments/assets/e629504a-d4e0-40be-965a-ec7461d5bf65)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/913303e4-b5a4-414d-be8e-ba5629d50582)
+
+
+Apply to the cluster
+Create the NodePort Service
+Apply to the cluster
+
+
+
+
